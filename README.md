@@ -29,7 +29,7 @@ Em um terminal execute o comando
 
 Em seguida rode o comando `yarn start` nas pastas backend e web e acesse via `localhost:3000` no seu navegador.
 
-![Landing Page](Projeto-landing-page.png)
+![Landing Page](Landing-page.png)
 
 Feito com ♥ junto a ![Rocketseat](https://github.com/brenobiancardi/React-Node-BeTheHero/raw/main/logo_rocketseat.png)
 
