@@ -32,3 +32,5 @@ Em seguida rode o comando `yarn start` nas pastas backend e web e acesse via `lo
 ![Landing Page](Projeto-landing-page.png)
 
 Feito com ♥ junto a ![Rocketseat](https://github.com/brenobiancardi/React-Node-BeTheHero/raw/main/logo_rocketseat.png)
+
+[Repositorio Rocketseat](https://github.com/rocketseat-education/nlw-03-omnistack)
